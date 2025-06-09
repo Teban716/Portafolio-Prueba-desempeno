@@ -1,31 +1,33 @@
 Personal Portfolio – Esteban Gonzalez
 
-Este es un portafolio personal desarrollado con HTML, CSS y Boxicons. Presenta información básica sobre el desarrollador, proyectos realizados y métodos de contacto.
+This is a personal portfolio developed with HTML, CSS y Boxicons. Introduce basic information about the developer, completed projects, and contact methods.
 
-Ver portafolio en vivo: https://teban716.github.io/Portafolio/
+View portfolio: https://teban716.github.io/Portafolio-Prueba-desempeno/
 
-Tecnologías utilizadas:
+ Technologies used:
 ------------------------
- HTML5
+ HTML
  CSS
 
-Sobre mí:
+About Me:
 ---------
-En la sección "About Me" se presenta a Esteban Gonzalez
+Esteban Gonzalez introduces himself
 
-Secciones del sitio:
+Site sections:
 ---------------------
-- Home: Introducción y redes sociales.
-- About: Breve descripción personal.
-- Projects: Muestra de tres proyectos con enlaces:
-  * Hoja de vida (Resume)
-  * Portafolio
-  * Cartas (Cards)
-- Contact: Métodos para contactar vía WhatsApp, teléfono y correo electrónico.
+- Home: Introduction and social networks.
+- About: Small personal description.
+- Projects: You can see of three projects with links:
+  * Resume
+  * Portfolio
+  * Cards
+- Contact: Methods to contact
+  * WhatsApp
+  * Phone
+  * Email
 
-Cómo usar:
+How to use:
 ----------
-1. Clona el repositorio o descarga los archivos.
-2. Asegúrate de tener las imágenes y style.css en el mismo directorio.
-3. Abre index.html en tu navegador.
+  Click on the link: 
+  https://teban716.github.io/Portafolio-Prueba-desempeno/
 
