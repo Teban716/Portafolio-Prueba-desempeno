@@ -1,0 +1,31 @@
+Personal Portfolio – Esteban Gonzalez
+
+Este es un portafolio personal desarrollado con HTML, CSS y Boxicons. Presenta información básica sobre el desarrollador, proyectos realizados y métodos de contacto.
+
+Ver portafolio en vivo: https://teban716.github.io/Portafolio/
+
+Tecnologías utilizadas:
+------------------------
+ HTML5
+ CSS
+
+Sobre mí:
+---------
+En la sección "About Me" se presenta a Esteban Gonzalez
+
+Secciones del sitio:
+---------------------
+- Home: Introducción y redes sociales.
+- About: Breve descripción personal.
+- Projects: Muestra de tres proyectos con enlaces:
+  * Hoja de vida (Resume)
+  * Portafolio
+  * Cartas (Cards)
+- Contact: Métodos para contactar vía WhatsApp, teléfono y correo electrónico.
+
+Cómo usar:
+----------
+1. Clona el repositorio o descarga los archivos.
+2. Asegúrate de tener las imágenes y style.css en el mismo directorio.
+3. Abre index.html en tu navegador.
+
